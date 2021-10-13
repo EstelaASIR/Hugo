@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Estela</title>
-    <link>http://127.0.0.1/public/categories/</link>
+    <link>https://vigorous-bardeen-d04833.netlify.app/categories/</link>
     <description>Recent content in Categories on Estela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://127.0.0.1/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vigorous-bardeen-d04833.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sintaxe</title>
-      <link>http://127.0.0.1/public/categories/sintaxe/</link>
+      <link>https://vigorous-bardeen-d04833.netlify.app/categories/sintaxe/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1/public/categories/sintaxe/</guid>
+      <guid>https://vigorous-bardeen-d04833.netlify.app/categories/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>http://127.0.0.1/public/categories/syntax/</link>
+      <link>https://vigorous-bardeen-d04833.netlify.app/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1/public/categories/syntax/</guid>
+      <guid>https://vigorous-bardeen-d04833.netlify.app/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>http://127.0.0.1/public/categories/temas/</link>
+      <link>https://vigorous-bardeen-d04833.netlify.app/categories/temas/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1/public/categories/temas/</guid>
+      <guid>https://vigorous-bardeen-d04833.netlify.app/categories/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://127.0.0.1/public/categories/themes/</link>
+      <link>https://vigorous-bardeen-d04833.netlify.app/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1/public/categories/themes/</guid>
+      <guid>https://vigorous-bardeen-d04833.netlify.app/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://127.0.0.1/public/categories/development/</link>
+      <link>https://vigorous-bardeen-d04833.netlify.app/categories/development/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1/public/categories/development/</guid>
+      <guid>https://vigorous-bardeen-d04833.netlify.app/categories/development/</guid>
       <description></description>
     </item>
     

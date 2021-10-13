@@ -2,178 +2,178 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://127.0.0.1/public/about/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/about/</loc>
     <lastmod>2019-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/categories/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1/public/en/categories/"
+                href="https://vigorous-bardeen-d04833.netlify.app/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://127.0.0.1/public/categories/"
+                href="https://vigorous-bardeen-d04833.netlify.app/categories/"
                 />
   </url><url>
-    <loc>http://127.0.0.1/public/tags/css/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1/public/en/"
+                href="https://vigorous-bardeen-d04833.netlify.app/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://127.0.0.1/public/"
+                href="https://vigorous-bardeen-d04833.netlify.app/"
                 />
   </url><url>
-    <loc>http://127.0.0.1/public/posts/markdown-syntax.pt-br/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/markdown-syntax.pt-br/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/series/guia-do-thema/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/series/guia-do-thema/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/html/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/markdown/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/markdown-syntax/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/series/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1/public/en/series/"
+                href="https://vigorous-bardeen-d04833.netlify.app/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://127.0.0.1/public/series/"
+                href="https://vigorous-bardeen-d04833.netlify.app/series/"
                 />
   </url><url>
-    <loc>http://127.0.0.1/public/categories/sintaxe/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/categories/syntax/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1/public/en/tags/"
+                href="https://vigorous-bardeen-d04833.netlify.app/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://127.0.0.1/public/tags/"
+                href="https://vigorous-bardeen-d04833.netlify.app/tags/"
                 />
   </url><url>
-    <loc>http://127.0.0.1/public/categories/temas/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/categories/themes/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/series/themes-guide/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/rich-content.pt-br/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/rich-content.pt-br/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/privacy/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/rich-content/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/shortcodes/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/more-rich-content.pt-br/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/more-rich-content.pt-br/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/more-rich-content/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/placeholder-text/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/text/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/placeholder-text.pt-br/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/placeholder-text.pt-br/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/math-typesetting.pt-br/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/math-typesetting.pt-br/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/math-typesetting/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/emoji/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/emoji-support/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/emoji-support.pt-br/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/emoji-support.pt-br/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/categories/development/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/development/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/hugo-coder-wiki/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/hugo/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/posts/hugo-coder-wiki/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/tags/themes/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/about.pt-br/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/about.pt-br/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1/public/authors/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1/public/en/authors/"
+                href="https://vigorous-bardeen-d04833.netlify.app/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://127.0.0.1/public/authors/"
+                href="https://vigorous-bardeen-d04833.netlify.app/authors/"
                 />
   </url><url>
-    <loc>http://127.0.0.1/public/contact/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/contact/</loc>
   </url><url>
-    <loc>http://127.0.0.1/public/contact/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/contact/</loc>
   </url><url>
-    <loc>http://127.0.0.1/public/projects/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/projects/</loc>
   </url><url>
-    <loc>http://127.0.0.1/public/projects/</loc>
+    <loc>https://vigorous-bardeen-d04833.netlify.app/projects/</loc>
   </url>
 </urlset>

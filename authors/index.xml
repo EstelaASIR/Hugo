@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Estela</title>
-    <link>http://127.0.0.1/public/authors/</link>
+    <link>https://vigorous-bardeen-d04833.netlify.app/authors/</link>
     <description>Recent content in Authors on Estela</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="http://127.0.0.1/public/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://vigorous-bardeen-d04833.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
