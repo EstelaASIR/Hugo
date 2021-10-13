@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Estela</title>
-    <link>http://www.example.com/categories/</link>
+    <link>http://127.0.0.1/public/categories/</link>
     <description>Recent content in Categories on Estela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://127.0.0.1/public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sintaxe</title>
-      <link>http://www.example.com/categories/sintaxe/</link>
+      <link>http://127.0.0.1/public/categories/sintaxe/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/sintaxe/</guid>
+      <guid>http://127.0.0.1/public/categories/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>http://www.example.com/categories/syntax/</link>
+      <link>http://127.0.0.1/public/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/syntax/</guid>
+      <guid>http://127.0.0.1/public/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>http://www.example.com/categories/temas/</link>
+      <link>http://127.0.0.1/public/categories/temas/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/temas/</guid>
+      <guid>http://127.0.0.1/public/categories/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://www.example.com/categories/themes/</link>
+      <link>http://127.0.0.1/public/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/themes/</guid>
+      <guid>http://127.0.0.1/public/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://www.example.com/categories/development/</link>
+      <link>http://127.0.0.1/public/categories/development/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/development/</guid>
+      <guid>http://127.0.0.1/public/categories/development/</guid>
       <description></description>
     </item>
     

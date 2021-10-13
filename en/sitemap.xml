@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/en/authors/</loc>
+    <loc>http://127.0.0.1/public/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/authors/"
+                href="http://127.0.0.1/public/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/authors/"
+                href="http://127.0.0.1/public/en/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/categories/</loc>
+    <loc>http://127.0.0.1/public/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/categories/"
+                href="http://127.0.0.1/public/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/"
+                href="http://127.0.0.1/public/en/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/</loc>
+    <loc>http://127.0.0.1/public/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/"
+                href="http://127.0.0.1/public/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/"
+                href="http://127.0.0.1/public/en/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/series/</loc>
+    <loc>http://127.0.0.1/public/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/series/"
+                href="http://127.0.0.1/public/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/series/"
+                href="http://127.0.0.1/public/en/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/tags/</loc>
+    <loc>http://127.0.0.1/public/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/tags/"
+                href="http://127.0.0.1/public/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/tags/"
+                href="http://127.0.0.1/public/en/tags/"
                 />
   </url>
 </urlset>
